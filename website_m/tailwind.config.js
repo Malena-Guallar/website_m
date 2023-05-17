@@ -12,8 +12,8 @@ module.exports = {
       'light_blue': '#94bbe9',
       'white': '#ffffff',
       'fuschia': '#ffc4ff',
-      'mauve': "ff24ff",
-
+      'mauve': "#bc45fc",
+      'orange': '#fda321',
     },
     extend: {},
   },

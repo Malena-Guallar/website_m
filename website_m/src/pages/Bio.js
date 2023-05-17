@@ -7,7 +7,7 @@ const Bio = () => {
     return (
 
 
-        <body className="h-screen bg-gradient-to-tr from-fuschia to-purple">
+        <body className="h-screen bg-gradient-to-br from-fuschia to-mauve">
 
 
             <Nav />
