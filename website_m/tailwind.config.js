@@ -10,7 +10,10 @@ module.exports = {
       'purple' : '#f390ff',
       'mint': '#aeeebd',
       'light_blue': '#94bbe9',
-      'white': '#ffffff'
+      'white': '#ffffff',
+      'fuschia': '#ffc4ff',
+      'mauve': "ff24ff",
+
     },
     extend: {},
   },

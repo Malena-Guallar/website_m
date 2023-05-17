@@ -5,20 +5,22 @@ const Nav = () => {
 
     return (
         <div className="navigation">
+            <div className='absolute top-40 left-10 z-20'>
             <ul>
                 <NavLink to="/">
-                    <li>home</li>
+                    <li className="py-4">home</li>
                 </NavLink>
                 <NavLink to="/bio">
-                    <li>bio</li>
+                    <li className="py-4">bio</li>
                 </NavLink>
                 <NavLink to="/listen">
-                    <li>listen</li>
+                    <li className="py-4">listen</li>
                 </NavLink>
                 <NavLink to="/gigs">
-                    <li>gigs</li>
+                    <li className="py-4">gigs</li>
                 </NavLink>
             </ul>
+            </div>
         </div>
     )
 
