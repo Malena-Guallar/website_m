@@ -12,6 +12,12 @@ const Nav = () => {
                 <NavLink to="/bio">
                     <li>bio</li>
                 </NavLink>
+                <NavLink to="/listen">
+                    <li>listen</li>
+                </NavLink>
+                <NavLink to="/gigs">
+                    <li>gigs</li>
+                </NavLink>
             </ul>
         </div>
     )
